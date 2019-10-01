@@ -1,0 +1,599 @@
+*{margin: 0; padding: 0;}
+
+.theteam {
+    padding-bottom: 33px;
+}
+
+.copyright {
+    color: white;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+span.hong {
+    color: #f99b98;
+}
+
+logofooter.img {}
+
+.footer .row.text-center {
+    z-index: 10;
+    position: relative;
+}
+
+footer.footer {
+    min-height: 286px;
+    padding-top: 50px;
+    background-size: cover;
+    background: url(images/berries-1839515_1920.jpg
+);
+    background-size: cover;
+    position: relative;
+    padding-top: 59px;
+}
+
+footer.footer:after {
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: #ffffff30;
+    top: 0px;
+    position: absolute;
+}
+
+img.logofooter {
+    width: 268px;
+    height: 100px;
+}
+
+h3.vienhong2.text-center.wow.bounceInUp {
+    font-size: 40px;
+    color: #fd9d9a;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    margin-bottom: 81px;
+}
+
+h3.vienhong2.text-center.wow.bounceInUp:after {
+    content: "";
+    width: 70px;
+    height: 5px;
+    background: #fd9d9a;
+    position: absolute;
+    left: 245px;
+    top: -11px;
+}
+
+.chu {
+    font-family: "open sans-serif";
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.conso {
+    width: 100%;
+    height: 311px;
+    border: 10px solid #fd9d9a;
+    text-align: center;
+    padding-top: 74px;
+    color: #fd9d9a;
+    margin-top: 80px;
+}
+
+.numbers {
+    border-top: dashed 2px #fd9d9a;
+    margin-top: 95px;
+    background: url(images/bg_number.jpg) repeat-x 0px 115px;
+    min-height: 481px;
+}
+
+.so {
+    font-family: 'Playfair Display', serif;
+    font-size: 65px;
+}
+
+.danhmucsanpham {
+    color: #3e5615;
+    text-transform: none;
+    font-size: 15px;
+    position: relative;
+    padding-top: 10px;
+}
+
+.danhmucsanpham:after {
+    content: "";
+    width: 46px;
+    height: 4px;
+    background: #3d5615;
+    position: absolute;
+    left: 0px;
+    bottom: 28px;
+}
+
+h4.tensanpham {font-weight: 500;margin-bottom: 10px;text-transform: uppercase;font-size: 20px;color: white;}
+
+span.thongtinsanpham {
+    display: block;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    background: #fd9d9a;
+    padding: 20px 10px;
+    bottom: -400px;
+    transition: 0.5s;
+}
+
+img.src {width: 15%;height: 5%;}
+
+a {
+    color: white;
+}
+
+a._1sanpham {
+    height: 100%;
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+a._1sanpham.wow.bounceInLeft:hover .thongtinsanpham {
+    bottom: 0px;
+}
+
+a.nutstrawberry.btn.btn-default.logonuoccot {
+    border: none;
+}
+
+a.nutstrawberry.btn.btn-default {
+    text-align: left;
+    background: none;
+}
+
+.btn {
+    padding: 0 0;
+}
+
+a.nutstrawberry.btn.btn-default.logomut {
+    border: solid 2px transparent;
+}
+
+a.nutstrawberry.btn.btn-default:hover {
+    animation: bounce 1s;
+}
+
+.motawelcome {
+    margin-bottom: 62px;
+}
+
+.noidung1cot {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 14px;
+}
+
+h3.vienhong {color: #fd9d9a;font-weight: 600;text-transform: uppercase;padding-bottom: 16px;position: relative;}
+
+h3.vienhong:after {content: "";width: 46px;height: 5px;background: #fd9d9a;position: absolute;top: -13px;left: 7%;transform: translateX(-50%);}
+
+h2.vienhong {
+    font-size: 40px;
+    color: #fd9d9a;
+    font-weight: 600;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 5px;
+}
+
+h2.vienhong:after {
+    content: "";
+    width: 70px;
+    height: 5px;
+    background: #fd9d9a;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+}
+
+.tieudewelcome {
+    color: gray;
+    padding-top: 121px;
+    font-size: 18px;
+    font-family:  'Open Sans', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 81px;
+}
+
+a.nutstrawberry.btn.btn-default.logodau {
+    border: solid 2px transparent;
+}
+
+a.nutstrawberry btn btn-default logomut  {
+    border: solid 2px transparent;
+}
+
+a.nutstrawberry btn btn-default logonuoccot {
+    border: solid 2px transparent;
+}
+
+.d2 {
+    font-size: 42px;
+}
+
+.headtren {
+    animation: ditutrenxuong 0,7s forwards;
+}
+
+.btn.btn-default.nuttrang {
+    opacity: 0;
+    animation: ditutraisang 1s forwards;
+    animation-delay: 2s;
+}
+
+ul.nav.navbar-nav.navbar-right {
+    margin-top: 18px;
+}
+
+nav.navbar.navbar-default {
+    background: transparent;
+    border: 1px solid transparent;
+    
+    margin-top: 97;
+}
+*{margin: 0; padding: 0;}
+*{margin: 0; padding: 0;}
+
+.headtren:after {content: "";width: 100%;height: 883px;background: #00000014;position: absolute;top: 0px;}
+
+.headtren {
+    padding-top: 47px;
+    background: url(images/strawberries-498207_1920.jpg);
+    min-height: 883px;
+    position: relative;
+    animation: ditutrenxuong 0,4s forwards;
+
+}
+
+nav.navbar.navbar-default {
+    background: transparent;
+    border: 1px solid transparent;
+    position: relative;
+    z-index: 2;
+}
+*{margin: 0; padding: 0;}
+
+.col-sm-12.khoitextslide {
+    position: relative;
+    z-index: 2;
+    margin-top: 150px;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    color: #fd9d9a;
+    font-weight: normal;
+}
+
+.navbar-default .navbar-nav>.active>a:after {content: "";width: 48%;height: 2px;background: #fc9d9a;position: absolute;bottom: 12px;left: 26%;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    background: none;
+    color: #fc9d9a;
+}
+
+.navbar-default .navbar-nav>li>a {color: white;font-family: 'Open Sans', sans-serif;font-size: 15px;text-transform: uppercase;position: relative;}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #fc9d9a;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+*{margin: 0; padding: 0;}
+
+nav.navbar.navbar-default {
+    background: transparent;
+    border: 1px solid transparent;
+}
+
+*{margin: 0; padding: 0;}
+*{margin: 0; padding: 0;}
+
+.headtren:after {content: "";width: 100%;height: 100%;background: #00000014;position: absolute;top: 0px;}
+
+.headtren {
+    padding-top: 47px;
+    background: url(images/strawberries-498207_1920.jpg);
+    background-size: cover;
+    min-height: 723px;
+    position: relative;
+}
+
+nav.navbar.navbar-default {
+    background: transparent;
+    border: 1px solid transparent;
+    position: relative;
+    z-index: 2;
+}
+*{margin: 0;padding: 0;}
+
+
+h3.vienhong1.text-center {
+    font-size: 40px;
+    color: #fd9d9a;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    margin-bottom: 81px;
+}
+
+h3.vienhong1.text-center:after {
+    content: "";
+    width: 84px;
+    height: 5px;
+    background: #fd9d9a;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -12px;
+}
+
+ul.nav.navbar-nav.navbar-right {
+    margin-top: t;
+}
+
+.haidongtext {
+    animation: ditutraisang 1s forwards;
+    animation-delay: 1s;
+    opacity: 0;
+}
+
+@-webkit-keyframes ditutraisang {
+    from{ transform:translateX(-500px);opacity:0;}
+    to{ transfrom:translateX(0px);opacity:1;}
+
+}
+@-o-keyframes ditutraisang {
+    from{ transform:translateX(-500px);opacity:0;}
+    to{ transform:translateX(0px);opacity:1;}
+
+}
+@-moz-keyframes ditutraisang {
+    from{ transform:translateX(-500px);opacity:0;}
+    to{ transform:translateX(0px);opacity:1;}
+
+}
+@keyframes ditutraisang {
+    from{ transform:translateX(-500px);opacity:0;}
+    to{ transform:translateX(0px);opacity:1;}
+
+}
+.navbar-header {
+    animation: thunho 1s forwards;
+}
+
+@keyframes thunho {
+    from{ transform: scale(5);opacity:0;}
+    to{ transform: scale(1);opacity:1;}
+}
+
+.navbar-default .navbar-collapse{
+    animation: ditutrenxuong 1s forwards;
+    animation-delay: 0.5s;
+    opacity: 0;
+}
+
+@keyframes ditutrenxuong {
+    from{ transorm:translateY(-300px);opacity:0;}
+    to{ transform:translateY(0px);opacity:1;}
+}
+
+img.logo {
+    width: 318px;
+    height: 141px;
+    margin-top: -20px;
+    margin-bottom: 5px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.d1 {
+    font-size: 48px;
+}
+
+.trang {
+    color: white;
+}
+
+.btn.btn-default.nuttrang {
+    border-radius: 51%;
+    font-size: 20px;
+    padding: 12px 14px;
+    font-weight: bold;
+    width: 163px;
+    margin-top: 36px;
+    background: none;
+}
+
+.btn.btn-default.nuttrang {
+    color: #fd9e9b;
+    border: white 1px solid;
+}
+
+a.btn.btn-default.nuttrang:hover {
+    background: #fd9d99;
+    color: white;
+    border: none;
+}
+
+.col-sm-12.khoitextslide {
+    position: relative;
+    z-index: 2;
+    margin-top: 106px;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    color: #fd9d9a;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav>.active>a:after {content: "";width: 48%;height: 2px;background: #fc9d9a;position: absolute;bottom: 12px;left: 26%;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    background: none;
+    color: #fc9d9a;
+}
+
+.navbar-default .navbar-nav>li>a {color: white;font-family: 'Open Sans', sans-serif;font-size: 15px;text-transform: uppercase;position: relative;padding-top: 41px;}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #fc9d9a;
+}
+
+    /* Iphone, Phones */ 
+    @media (max-width : 767px) {
+        *{}
+
+.container>.navbar-header {
+    float: none;
+    text-align: center;
+}
+
+.container>.navbar-header logo {
+    display: inline;
+}
+
+.navbar-default .navbar-brand {
+    float: none;
+}
+
+.haidongtext {margin-bottom: -23px;}
+
+.d2 {
+    font-size: 28px;
+}
+
+.d1 {
+    font-size: 28px;
+}
+
+h3.vienhong:after {left: 50%;}
+
+a.nutstrawberry.btn.btn-default {
+    text-align: center;
+}
+
+.row_3colwelcome {
+    text-align: center;
+}
+
+.numbers {
+    margin-bottom: 77px;
+    background: none;
+}
+
+h3.vienhong1.text-center.wow.bounceInUp {
+    margin-top: 30px;
+}
+
+button.navbar-toggle {
+    padding-top: 43px;
+    background: transparent;
+    border: none;
+}
+
+.headtren {
+    background: url(images/berry-1239306_1920.jpg);
+    background-size: cover;
+}
+    }
+
+    /* Ipad */
+    @media (min-width : 768px) and (max-width : 991px){
+        *{}
+
+.d2 {
+    font-size: 37px;
+}
+
+.d1 {
+    font-size: 34px;
+}
+
+.row.tieudework {}
+
+h3.vienhong {
+    font-size: 22px;
+}
+
+h3.vienhong:after {
+    left: 12%;
+}
+
+
+h3.vienhong1.text-center.wow.bounceInUp {
+    font-size: 31px;
+}
+
+h2.vienhong {
+    font-size: 31px;
+}
+
+.headtren {
+    background: url(images/berries-1839515_1920.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.headtren:after {
+    content: "";
+    background: #bdbdbd29;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+    }
+
+    /* man hinh Desktops nho */
+    @media (min-width : 992px) and (max-width : 1199px){
+        *{}
+
+h3.vienhong1.text-center.wow.bounceInUp {margin-bottom: 44px;}
+
+.d1 {
+    font-size: 45px;
+}
+
+.haidongtext {
+}
+
+.noidung1cot {
+    font-size: 15px;
+}
+
+h3.vienhong1.text-center.wow.bounceInUp:after {
+    left: 50%;
+}
+
+
+.headtren {
+    background: url(images/strawberry-2502961_1920.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.headtren:after {content: "";height: 100%;width: 100%;position: absolute;background: #90909033;}
+    }
+
+    /* man hinh lon, fullHD */
+    @media only screen and (min-width : 1200px) {
+        *{}
+    }
+
