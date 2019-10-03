@@ -463,6 +463,10 @@ a.btn.btn-default.nuttrang:hover {
     @media (max-width : 767px) {
         *{}
 
+img.hihi {
+    height: 100%;
+}
+
 .container>.navbar-header {
     float: none;
     text-align: center;
@@ -521,6 +525,10 @@ button.navbar-toggle {
     @media (min-width : 768px) and (max-width : 991px){
         *{}
 
+img.hihi {
+    height: 215px;
+}
+
 .d2 {
     font-size: 37px;
 }
@@ -566,6 +574,10 @@ h2.vienhong {
     /* man hinh Desktops nho */
     @media (min-width : 992px) and (max-width : 1199px){
         *{}
+
+img.hihi {
+    height: 283px;
+}
 
 h3.vienhong1.text-center.wow.bounceInUp {margin-bottom: 44px;}
 
