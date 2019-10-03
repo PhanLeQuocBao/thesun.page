@@ -9,7 +9,8 @@ img.hihi {height: 345px;}
 .copyright {
     color: white;
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 22px;
+    padding-left: 20px;
 }
 
 span.hong {
@@ -335,7 +336,7 @@ h3.vienhong1.text-center {
 
 h3.vienhong1.text-center:after {
     content: "";
-    width: 84px;
+    width: 70px;
     height: 5px;
     background: #fd9d9a;
     position: absolute;
@@ -524,6 +525,19 @@ button.navbar-toggle {
     /* Ipad */
     @media (min-width : 768px) and (max-width : 991px){
         *{}
+
+.navbar-default .navbar-brand {
+    float: none;
+}
+
+.container>.navbar-header {
+    float: none;
+    text-align: center;
+}
+
+img.logo {}
+
+img.logo {}
 
 img.hihi {
     height: 215px;
