@@ -125,7 +125,7 @@ span.thongtinsanpham {
     background: #fd9d9a;
     padding: 20px 10px;
     bottom: -400px;
-    transition: 0.5s;
+    transition:  0.5s;
 }
 
 img.src {width: 15%;height: 5%;}
